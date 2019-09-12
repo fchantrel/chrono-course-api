@@ -1,0 +1,4 @@
+version: 1.0.0
+host: localhost
+port: 9090
+url_prefix: chrono-course-api-1
